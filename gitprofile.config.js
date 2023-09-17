@@ -15,7 +15,7 @@ const config = {
     twitter: '',
     mastodon: '',
     facebook: '',
-    instagram: 'hola_rzkyy__',
+    instagram: 'hola.rzkyy__',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
@@ -26,7 +26,7 @@ const config = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'ravens@sgbteam.id',
+    email: '',
   },
   resume: {
     fileUrl:
